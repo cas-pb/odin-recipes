@@ -1,0 +1,14 @@
+body {
+    background-color:rgb(240, 224, 203)
+}
+
+h1, h2, .description, .image, .container  {
+    text-align: center;
+
+}
+
+ul.one {
+    text-align:left;
+    display: inline-block;
+}
+
